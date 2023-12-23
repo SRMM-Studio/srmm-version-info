@@ -1,0 +1,13 @@
+branches:
+
+  release: 
+      Key:
+      Version: '3.4.1'
+      IgnoreInstalledVersion: False
+      Download: https://github.com/SRMM-Studio/ShinRyuModManager/releases/download/v3.4.1/Ryu.Mod.Manager.3.4.1.zip
+
+  dev: 
+      Key: passwardsaltsalt
+      Version: '0.0.0'
+      IgnoreInstalledVersion: True
+      Download: 

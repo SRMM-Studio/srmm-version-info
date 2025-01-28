@@ -2,9 +2,9 @@ branches:
 
   release: 
       Key:
-      Version: '4.4.0'
+      Version: '4.4.1'
       IgnoreInstalledVersion: False
-      Download: https://github.com/SRMM-Studio/srmm-distrib/raw/main/ShinRyuModManager/ShinRyuModManager4.4.0.zip
+      Download: https://github.com/SRMM-Studio/srmm-distrib/raw/main/ShinRyuModManager/ShinRyuModManager4.4.1.zip
 
   dev: 
       Key: passwardsaltsalt

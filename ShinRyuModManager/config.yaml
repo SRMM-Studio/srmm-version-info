@@ -2,7 +2,7 @@ branches:
 
   release: 
       Key:
-      Version: '4.8.4'
+      Version: '4.8.5'
       IgnoreInstalledVersion: False
       Download: https://github.com/SRMM-Studio/srmm-distrib/raw/main/ShinRyuModManager/ShinRyuModManager4.8.5.zip
 
